@@ -1,0 +1,9 @@
+target/
+*.log
+.env
+result
+
+
+# Added by cargo
+
+/target
