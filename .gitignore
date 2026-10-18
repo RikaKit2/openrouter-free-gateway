@@ -1,9 +1,5 @@
 target/
+dist/
 *.log
 .env
 result
-
-
-# Added by cargo
-
-/target
